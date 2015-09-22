@@ -1,0 +1,11 @@
+0.  an example of word with max length 45 char
+1.  returns  resource usage measures for who
+2.  16
+3.  TODO
+4.  TODO
+5.  TODO
+6.  TODO
+7.  using hashtable sorted by alphapatical py leter from a to z
+8.  using hash table as 
+9.  can make nested hash table inside liked list of each character
+10. no

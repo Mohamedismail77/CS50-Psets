@@ -1,0 +1,19 @@
+0.  {PNG:265,GIF:265,JPEG:16M,BMP:16M}
+1.  GIF
+2.  The files in lossless formats usually consume much more storage space than in lossy formats. However, there are many other differences between the two types of media formats than simply the storage space. These include
+3.  JPEG
+4.  When a file or directory is deleted under a FAT filesystem, the first character of its name is changed to sigma. The remainder of the directory entry information remains intact.
+5.  check he file system if it suport data recover or not
+6.  The <stdint.h> header shall declare sets of integer types having specified widths, and shall define corresponding sets of macros. It shall also define macros that specify limits of integer types corresponding to types defined in other standard headers
+7.  to easy handel bits and bytes
+8.  1,4,16,2
+9.  42 4d
+10. {bfSize:The size, in bytes, of the bitmap file., biSize:The number of bytes required by the structure.}
+11.  If biHeight is negative, the bitmap is a top-down DIB and its origin is the upper-left corner.
+12. biBitCount
+13. if the file can't be created on directory or leak of memory
+14. just reading one block of size BITMAPFILEHEADER or BITMAPINFOHEADER
+15. 3
+16. allows you to change the location of the file pointer.
+17. set the file pointer file pointer to a location in relation to the end of the file
+18. Rob Bowden
